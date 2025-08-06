@@ -21,7 +21,7 @@ This is assignment for bynry backend role
 
 ## 🖼 Sample Output
 
-![Postman Output](./part3-api-implementation\Screenshot\postman-response.png)
+![Postman Output](https://github.com/HAC-07/bynry-assignment/blob/main/part3-api-implementation/Screenshot/postman-response.png?raw=true)
 
 ## 👨‍💻 Author
 
