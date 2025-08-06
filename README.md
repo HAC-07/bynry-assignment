@@ -21,7 +21,7 @@ This is assignment for bynry backend role
 
 ## 🖼 Sample Output
 
-![Postman Output](\part3-api-implementation\Screenshot\postman-response.png)
+![Postman Output](./part3-api-implementation\Screenshot\postman-response.png)
 
 ## 👨‍💻 Author
 
